@@ -1,0 +1,18 @@
+﻿{
+  "de-DE": {
+    "LOGIN": {
+      "USERNAME": "de User Name",
+      "PASSWORD": "de Password",
+      "LOGIN": "de LOGIN",
+      "LOGIN_BUTTON": "de login"
+    }
+  },
+  "en-GB": {
+    "LOGIN": {
+      "USERNAME": "User Name",
+      "PASSWORD": "Password",
+      "LOGIN_BUTTON": "Login",
+      "OTHER": "other in eng!"
+    }
+  }
+}
